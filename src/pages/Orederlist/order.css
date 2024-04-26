@@ -1,0 +1,38 @@
+.order {
+  width: 100%;
+  height: max-content;
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+.ul {
+  width: 280px;
+  height: 250px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 0px 2px 2px rgb(75, 75, 90);
+  margin-top: 25px;
+  margin-left: 50px;
+  padding: 15px;
+  color: whitesmoke;
+}
+.HEAD {
+  text-align: center;
+  margin-top: 5px;
+}
+.ul h1 {
+  text-align: center;
+  color: aliceblue;
+}
+.ORDERS {
+  width: 180px;
+  margin-left: 35px;
+  margin-top: 25px;
+  height: 30px;
+  background-color: brown;
+}

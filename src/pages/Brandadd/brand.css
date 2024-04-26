@@ -1,0 +1,38 @@
+.brand {
+  width: 100%;
+  height: 100vh;
+  background-image: url('nod.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.brinput {
+  width: 350px;
+  height: 300px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0px 0px 2px 2px rgb(75, 75, 90);
+  position: relative;
+  top: 150px;
+  left: 550px;
+}
+.brinput h1 {
+  text-align: center;
+  position: relative;
+  top: 10px;
+  color: aliceblue;
+}
+.btninp {
+  margin-top: 20px;
+  margin-left: 15px;
+  padding: 10px;
+  height: 35px;
+}
+.btnbrand {
+  width: 180px;
+  height: 35px;
+  margin-top: 20px;
+  margin-left: 70px;
+  font-weight: bolder;
+  font-size: larger;
+}

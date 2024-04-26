@@ -1,0 +1,66 @@
+.batadd {
+  width: 100%;
+  height: min-content;
+  background-image: url('nod.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  display: flex;
+  gap: 100px;
+}
+.inbat {
+  width: 450px;
+  height: 620px;
+  padding: 5px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0px 0px 3px 3px rgb(75, 75, 90);
+  position: relative;
+  top: 20px;
+}
+.inbat h1 {
+  text-align: center;
+  margin-top: 5px;
+  color: aliceblue;
+}
+.batin {
+  padding: 10px;
+  margin-top: 15px;
+  width: 400px;
+  height: 35px;
+}
+.veid {
+  margin-top: 20px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0px 0px 2px 2px rgb(75, 75, 90);
+  width: 900px;
+  min-height: 620px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.veli {
+  border: none;
+  width: 200px;
+  height: 60px;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: aliceblue;
+  color: blue;
+  box-shadow: 0px 0px 2px 2px rgb(75, 75, 90);
+}
+.veid h3 {
+  position: relative;
+  top: 8px;
+  left: 320px;
+}
+.batbtn {
+  width: 250px;
+  margin-left: 83px;
+  margin-top: 10px;
+  height: 38px;
+  font-weight: bolder;
+  font-size: larger;
+}

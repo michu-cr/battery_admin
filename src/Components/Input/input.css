@@ -1,0 +1,15 @@
+.in {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  background-color: rgb(248, 251, 248);
+  font-weight: bolder;
+  color: rgb(9, 37, 222);
+  margin: 8px;
+  box-shadow: 0px 0px 2px 2px whitesmoke;
+}
+.in::placeholder {
+  color: rgb(9, 37, 222);
+}
